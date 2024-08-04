@@ -1,5 +1,5 @@
 
-## 🌐Socials
+# 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nhuquynh2503/) 
 
 # 💻Tech Stack
@@ -11,9 +11,5 @@ A portfolio website built with Nuxt 3.
 ![ảnh](https://github.com/user-attachments/assets/90c0c2f8-72a2-4746-853d-5be32d027165)
 ![ảnh](https://github.com/user-attachments/assets/5638a65c-31de-4b64-9d00-9ff186be6925)
 
-
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhuquynh2503&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
